@@ -63,6 +63,8 @@ Then open the link shown in your browser.
 
 ## 🤖 How It Works
 
+![AI Research Banner](https://raw.githubusercontent.com/anandsuraj/multi_agent_researcher/refs/heads/main/screenshot-demo.png)
+
 When you launch the app:
 
 1. You’ll be asked to **enter your OpenAI API key**
@@ -108,7 +110,6 @@ Here are some things you can ask:
 - Export generated content to PDF or Markdown
 - Save and reuse previous research queries
 - Add support for other LLM providers (like Anthropic, Gemini, etc.)
-
 
 ---
 
